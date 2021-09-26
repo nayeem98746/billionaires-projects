@@ -1,0 +1,13 @@
+.header-style{
+    background-color: yellow;
+    padding: 20px;
+}
+.header-style h1 {
+    font-size: 100px;
+}
+.header-style h1 span{
+    font-size: 150px;
+}
+.title{
+    margin-bottom:-30px ;
+}

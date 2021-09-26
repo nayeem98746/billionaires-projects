@@ -1,0 +1,19 @@
+.img-size {
+    height: 200px;
+    width: 170px;
+    border-radius: 50%;
+    text-align: center;
+    
+}
+.cart{
+    height: 650px;
+   background-color: lightyellow;
+   border-radius: 50px;
+}
+.button{
+    font-size: 20px;
+    color: ghostwhite;
+    background-color: rgb(6, 148, 141);
+    padding: 15px;
+    border-radius: 10px;
+}
