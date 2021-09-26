@@ -12,5 +12,10 @@
 }
 .total-doller{
     border: 1px solid cyan;
-    
+    background-color: gray;   
+    border-radius: 20px; 
+}
+.total-doller h3{
+    color:whitesmoke ;
+    padding: 10px;
 }
