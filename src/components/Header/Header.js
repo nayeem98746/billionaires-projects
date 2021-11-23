@@ -6,7 +6,7 @@ const Header = () => {
     return (
         <div className="text-center p-5">
             <div className="header-style">
-            <h3 className="title">THE WORLD'S REAL-TIME </h3>
+            <h3 className="title">THE WORLD'S REAL-TIME THIS </h3>
             <h1> <span>B</span>ILLIONAIRE<span>S</span> </h1>
             </div>
             <p></p>

@@ -4,7 +4,7 @@ const Cart = (props) => {
     // console.log(props.cart)
     const {cart} = props
     // const {total} = props
-    const nameBillionair =(previous, billionair) => previous+billionair.name
+    const nameBillionair =(previous, billionair) => previous +  billionair.name
     const name = cart.reduce(nameBillionair, 0)
     let total = 0
     for(const billionair of cart){
